@@ -1,0 +1,14 @@
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\Lenguajes y Automatas 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\Lenguajes y Automatas 1.AssemblyInfoInputs.cache
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\Lenguajes y Automatas 1.AssemblyInfo.cs
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\Lenguajes y Automatas 1.csproj.CoreCompileInputs.cache
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\bin\Debug\net7.0\Lenguajes y Automatas 1.exe
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\bin\Debug\net7.0\Lenguajes y Automatas 1.deps.json
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\bin\Debug\net7.0\Lenguajes y Automatas 1.runtimeconfig.json
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\bin\Debug\net7.0\Lenguajes y Automatas 1.dll
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\bin\Debug\net7.0\Lenguajes y Automatas 1.pdb
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\Lenguajes y Automatas 1.dll
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\refint\Lenguajes y Automatas 1.dll
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\Lenguajes y Automatas 1.pdb
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\Lenguajes y Automatas 1.genruntimeconfig.cache
+C:\Users\David Paredes\Documents\Lenguajes y Automatas 1\obj\Debug\net7.0\ref\Lenguajes y Automatas 1.dll
